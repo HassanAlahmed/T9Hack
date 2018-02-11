@@ -9,6 +9,6 @@ S3: Storage Service. File-Based. Used to deploy the website. Automatically store
 SNS: Notification Service to let DynamoDB know that a file has been uploaded.
 DynamoDB: Object-based storage. 
 Polly: Machine Learning algorithm that converts text into speech. Various voices and translation into different languages supported. Making life simpler by the day!
-IAM: Security, Policy
-API Gateway: To trigger Lambda Functions
-Alexa Skill: Customizing Alexa's services to learn Physics
+IAM: Security, Policy.
+API Gateway: To trigger Lambda Functions.
+Alexa Skill: Customizing Alexa's services to learn Physics.
